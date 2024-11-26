@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class HolaMundo {
     public static void main (String []args) {
-    	System.out.println("Hola Mundo");
+    	System.out.println("Hola Mundo2");
         final int  numero =9;//constante
          //numero = 12;
         String nombre = "Eva";
