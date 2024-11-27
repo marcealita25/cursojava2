@@ -10,9 +10,9 @@ public class Ejercicio4 {
 		System.out.println("introduce un numero");
 		int num1 = scan.nextInt();
 		
-		int resto = 
-				boolean esPar = ==0;
-		System.out.println("el numero"+num1+"es par"+ esPar);
+		int resto = 0;
+				boolean esPar;
+		System.out.println("el numero"+num1+"es par");
 		
 		
 	}
