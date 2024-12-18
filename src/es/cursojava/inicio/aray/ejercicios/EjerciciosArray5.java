@@ -29,7 +29,7 @@ public class EjerciciosArray5 {
 		    		 System.out.println(nombre);
 		    	 }
 		     }
-		
+		A
 		
 		
 		
