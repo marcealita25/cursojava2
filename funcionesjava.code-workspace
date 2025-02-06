@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../InicioMiercoles/src/funcionesjava"
+		},
+		{
+			"name": "cursojava2",
+			"path": "."
+		},
+		{
+			"name": "cursojava",
+			"path": "../cursojava"
+		},
+		{
+			"path": "../EjercicioConstructoresTienda"
+		},
+		{
+			"path": "../EjercicioCINE"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
